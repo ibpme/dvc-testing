@@ -1,0 +1,5 @@
+[core]
+    remote = testing
+['remote "testing"']
+    url = s3://test/test
+    endpointurl = http://localhost:11000
